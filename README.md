@@ -1,11 +1,10 @@
-#Formação de Preço de Soja
-
+# Formação de Preço de Soja
 
 Dentro do cenário da produção agrícola, as commodities são obrigatoriamente negociadas nas bolsas de mercadorias, desta forma os preços pago aos produtores é definido pelo mercado. Para os grãos de soja, milho e trigo, a bolsa de mercadoria usada como referência, é a bolsa de Chicago CBOT. A variação na cotação dos produtos ocorre devido alguns fatores, sendo um deles a oferta e demanda pela mercadoria.  
 
 O preço de paridade de exportação (PPE): Está relacionado entre o mercado futuro e o físico, onde é calculado o valor que o produtor deverá receber na sua região de produção.  
 
-###Cálculo  
+## Cálculo  
 
 Para realizar o cálculo da formação do preço da soja e do milho primeiramente devemos observar a cotação do produto na bolsa de referência no caso Chicago (CBOT). Outro fator é o Basis FOB que é prêmio portuário, lembrando que o basis é negociado no mercado físico entre compradores e vendedores.  
 
